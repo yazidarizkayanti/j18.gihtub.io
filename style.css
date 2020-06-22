@@ -103,6 +103,7 @@ body {
   display:inline-block;
   background-color:#000;
   margin-left:80px;
+  font-family:'Pacifico';
 }
 .btn:hover {
   opacity:1;
