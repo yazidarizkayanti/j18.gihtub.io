@@ -79,4 +79,8 @@ body {
   padding-bottom:100px;
 }
 .container {
-  margin:0 auto;
+  margin-left:auto;
+  margin-right:auto;
+  color:#fff;
+  text-align:left;
+  padding-bottom:20px;
