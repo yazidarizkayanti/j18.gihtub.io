@@ -85,3 +85,11 @@ body {
   text-align:left;
   padding-bottom:20px;
 }
+.container h1{
+  font-size:45px;
+  font-family:'Pacifico';
+}
+.container p{
+  font-size:30px;
+  font-family:'Pacifico';
+}  
