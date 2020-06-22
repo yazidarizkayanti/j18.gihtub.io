@@ -101,9 +101,8 @@ body {
   color:#fff;
   border-radius:5px;
   display:inline-block;
-}
-.btn a{
   background-color:#000;
+  margin-left:80px;
 }
 .btn:hover {
   opacity:1;
