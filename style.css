@@ -109,4 +109,29 @@ body {
 .btn:hover {
   opacity:1;
 }
-    
+.footer {
+  background-color: #EA2027;
+  color: #fff;
+  height: 120px;
+  padding: 30px 40px 30px 40px;
+}
+.footer a{
+  text-decoration: none;
+  color: #fff;
+}
+.footer-logo {
+  font-family: 'Pacifico', cursive;
+  font-size: 32px;
+  border-bottom: 2px solid #fff;
+  padding-bottom: 10px;
+}
+
+.footer-list{
+  float:right;
+}
+
+.footer-menu{
+  margin-top: 20px;
+  margin-right: 50px;
+  float: right;
+}
