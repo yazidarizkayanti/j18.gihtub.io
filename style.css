@@ -112,7 +112,7 @@ body {
 .footer {
   background-color: #EA2027;
   color: #fff;
-  height: 120px;
+  height: 100px;
   padding: 30px 40px 30px 40px;
 }
 .footer a{
@@ -121,7 +121,7 @@ body {
 }
 .footer-logo {
   font-family: 'Pacifico';
-  font-size: 32px;
+  font-size: 1.75em;
   border-bottom: 2px solid #fff;
   padding-bottom: 10px;
 }
