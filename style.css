@@ -88,8 +88,10 @@ body {
 .container h1{
   font-size:75px;
   font-family:'Pacifico';
+  text-shadow:2px 2px #000;
 }
 .container p{
   font-size:60px;
   font-family:'Pacifico';
+  text-shadow:2px 2px #000;
 }  
