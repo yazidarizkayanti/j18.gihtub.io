@@ -94,4 +94,18 @@ body {
   font-size:60px;
   font-family:'Pacifico';
   text-shadow:2px 2px #000;
-}  
+} 
+.btn {
+  opacity:0.8;
+  padding:12px 24px;
+  color:#fff;
+  border-radius:5px;
+  display:inline-block;
+}
+.btn a{
+  background-color:#000;
+}
+.btn:hover {
+  opacity:1;
+}
+    
