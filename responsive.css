@@ -1,0 +1,20 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+  .footer {
+    text-align: center;
+  }
+  .footer-list{
+    float : none;
+  }
+  .footer-menu{
+	margin-top: 10px;
+	margin-right: 0px;
+	float: left;
+    width: 33.33%;
+  }	  
+}
