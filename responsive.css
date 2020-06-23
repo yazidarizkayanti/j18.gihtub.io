@@ -6,6 +6,17 @@
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
 
+/*Header*/
+  nav {
+    display: none;
+  }
+
+  .menu-icon {
+      display: block !important;
+      padding-top: 30px;
+  }
+	
+	
 /*Top Wrapper*/
 .container{
   margin-left:10px;
