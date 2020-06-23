@@ -109,6 +109,45 @@ body {
 .btn:hover {
   opacity:1;
 }
+/*Bottom Wrapper*/
+
+.bottom-wrapper {
+  font-family: 'Pacifico';
+  width: 1170px;
+  padding: 0 15px;
+}
+.container-bottom {
+  float: right;
+  font-size: 15px;
+  height: 5px;
+  padding: 180px 50px 100px 0;
+  text-align: center;
+  color: #636e72;
+}
+.container-bottom p {
+  margin: 0 auto;
+}
+.heading {
+  padding-top: 120px;
+  padding-bottom: 40px;
+  font-weight: normal;
+}
+.message {
+  padding: 10px 20px;
+  background-color: #fab1a0;
+  cursor: pointer;
+  box-shadow: 0 7px #ee5253;
+}
+.heading h3 {
+  font-weight: bold;
+}
+.message:active {
+  box-shadow: none;
+  position: relative;
+  top: 7px;
+}
+
+/*Footer*/
 .footer {
   background-color: #EA2027;
   color: #fff;
