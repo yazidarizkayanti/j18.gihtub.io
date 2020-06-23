@@ -113,15 +113,14 @@ body {
 
 .bottom-wrapper {
   font-family: 'Pacifico';
-  width: 1170px;
+  width: 100%;
   padding: 0 15px;
 }
 .container-bottom {
-  float: right;
   font-size: 15px;
   height: 5px;
   padding: 180px 50px 100px 0;
-  text-align: center;
+  text-align: left;
   color: #636e72;
   margin-left:80px;
   margin-right:80px
