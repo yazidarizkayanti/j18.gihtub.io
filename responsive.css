@@ -5,17 +5,22 @@
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
+
 /*Top Wrapper*/
 .container{
   margin-left:10px;
   margin-right:10px;
 }
 .container h1{
-	font-size:36px;
-}
-.container p{
 	font-size:30px;
 }
+.container p{
+	font-size:25px;
+.btn {
+ margin-left:10px;
+}
+
+/*Footer*/
   .footer {
     text-align: center;
   }
