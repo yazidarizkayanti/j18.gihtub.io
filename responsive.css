@@ -9,10 +9,13 @@
 .container{
   margin-left:10px;
   margin-right:10px;
+}
 .container h1{
 	font-size:36px;
+}
 .container p{
 	font-size:30px;
+}
   .footer {
     text-align: center;
   }
