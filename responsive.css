@@ -31,6 +31,11 @@
 .btn {
  margin-left:10px;
 }
+	
+/*Bottom Wrapper*/
+.message {
+ width:100%;
+ padding-bottom:5px;
 
 /*Footer*/
   .footer {
