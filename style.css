@@ -114,11 +114,9 @@ body {
 .bottom-wrapper {
   font-family: 'Pacifico';
   width: 100%;
-  padding: 0 15px;
 }
 .container-bottom {
   font-size: 15px;
-  height: 5px;
   padding: 180px 50px 100px 0;
   text-align: left;
   color: #636e72;
@@ -126,8 +124,8 @@ body {
   margin-right:80px
 }
 .heading {
-  padding-top: 120px;
-  padding-bottom: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   font-weight: normal;
 }
 .message {
